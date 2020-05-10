@@ -11,6 +11,7 @@ public class HashMapIteration {
         map.put(25, "Saurav");
         map.put(12, "HashMap");
         map.put(15, "HashMaprer");
+        map.put(16, "Double");
         System.out.println(map.size());
         System.out.println("While Loop:");
         Iterator itr = map.entrySet().iterator();
